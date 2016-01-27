@@ -12,7 +12,7 @@ import (
 
 var (
 	logging = flag.Bool("log", false, "Enable logging")
-	region  = flag.String("region", "us-east-1", "Set S3 region")
+	region  = flag.String("region", "us-east-1", "Set AWS region")
 	role    = flag.String("role", "", "Role ARN")
 )
 
