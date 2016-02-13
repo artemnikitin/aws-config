@@ -1,4 +1,5 @@
-# aws-config [![Go Report Card](https://goreportcard.com/badge/github.com/artemnikitin/aws-config)](https://goreportcard.com/report/github.com/artemnikitin/aws-config)
+# aws-config 
+[![Go Report Card](https://goreportcard.com/badge/github.com/artemnikitin/aws-config)](https://goreportcard.com/report/github.com/artemnikitin/aws-config)
 
 ##### Install
 Get it via    
