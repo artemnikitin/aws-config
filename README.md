@@ -1,11 +1,4 @@
-# aws-config
-
-##### Dependency
-
-Only depends on AWS SDK. Install it via    
-```
-go get github.com/aws/aws-sdk-go/...
-```
+# aws-config [![Go Report Card](https://goreportcard.com/badge/github.com/artemnikitin/aws-config)](https://goreportcard.com/report/github.com/artemnikitin/aws-config)
 
 ##### Install
 Get it via    
