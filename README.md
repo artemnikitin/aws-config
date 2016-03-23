@@ -5,7 +5,6 @@
 Using to create common config for AWS services.
 
 ##### Install
-Get it via    
 ``` 
 go get github.com/artemnikitin/s3-uploader 
 ``` 
